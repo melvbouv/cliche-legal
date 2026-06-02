@@ -1,0 +1,145 @@
+/* Cliché — pages légales. Palette « chambre noire » du design system.
+   Polices système uniquement (pas de Google Fonts : cohérent avec la
+   promesse zéro-tracking de la page elle-même). */
+
+:root {
+  --bg: #0e0b09;
+  --surface: #1a1411;
+  --ink-hi: #f4e8d4;
+  --ink: #ead9bc;
+  --ink-mid: rgba(234, 217, 188, 0.62);
+  --ink-low: rgba(234, 217, 188, 0.40);
+  --accent: #c97a5d;
+  --border: rgba(234, 217, 188, 0.12);
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  font-size: 17px;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Header */
+.top {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 22px 24px 0;
+}
+.brand {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 22px;
+  color: var(--ink-hi);
+  text-decoration: none;
+  letter-spacing: -0.3px;
+}
+.brand em { font-style: italic; }
+.pages {
+  display: flex;
+  gap: 14px;
+  flex: 1;
+  flex-wrap: wrap;
+  font-size: 13px;
+}
+.pages a {
+  color: var(--ink-mid);
+  text-decoration: none;
+}
+.pages a:hover { color: var(--ink-hi); }
+.pages a.active { color: var(--accent); }
+.lang {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 4px 12px;
+}
+.lang:hover { border-color: var(--accent); }
+
+/* Content */
+main {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 8px 24px 64px;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 34px;
+  line-height: 1.2;
+  color: var(--ink-hi);
+  letter-spacing: -0.5px;
+  margin: 28px 0 8px;
+}
+h2 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 600;
+  font-size: 22px;
+  color: var(--ink-hi);
+  letter-spacing: -0.2px;
+  margin: 40px 0 12px;
+}
+p { margin: 0 0 16px; }
+a { color: var(--accent); text-decoration: underline; text-underline-offset: 2px; }
+a:hover { color: var(--ink-hi); }
+strong { color: var(--ink-hi); font-weight: 600; }
+
+ul { margin: 0 0 16px; padding-left: 22px; }
+li { margin: 0 0 8px; }
+
+ul.landing {
+  list-style: none;
+  padding: 0;
+  margin-top: 28px;
+}
+ul.landing li { margin-bottom: 14px; }
+ul.landing a { font-size: 19px; }
+
+/* « En bref » box */
+blockquote {
+  margin: 24px 0;
+  padding: 18px 20px;
+  background: var(--surface);
+  border-left: 3px solid var(--accent);
+  border-radius: 8px;
+}
+blockquote p { margin: 0 0 8px; }
+blockquote p:last-child { margin-bottom: 0; }
+blockquote em {
+  color: var(--ink-mid);
+  font-size: 14px;
+}
+
+/* Footer */
+footer {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 32px 24px 48px;
+  border-top: 1px solid var(--border);
+  font-size: 14px;
+}
+footer p { margin: 0 0 6px; }
+.muted { color: var(--ink-low); font-size: 13px; }
+.muted a { color: var(--ink-mid); }
+
+@media (max-width: 520px) {
+  body { font-size: 16px; }
+  h1 { font-size: 28px; }
+  h2 { font-size: 20px; }
+  .top { gap: 10px; }
+}
