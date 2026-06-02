@@ -1,12 +1,12 @@
 # Terms of Use
 
-**Last updated: [publication date]**
+**Last updated: June 2, 2026**
 
 By installing and using Cliché, you accept these terms. If you don't agree, simply don't use the app — no hard feelings.
 
 ## The app
 
-Cliché is published by **[Publisher]**. It's a photo and video sorting application that runs on iOS and Android.
+Cliché is published by **Melvin Bouvier**. It's a photo and video sorting application that runs on iOS and Android.
 
 ## Your license to use it
 
@@ -56,7 +56,7 @@ We do our best to keep Cliché running well, but the app is provided **"as is"**
 
 ## Limitation of liability
 
-To the extent permitted by applicable law, **[Publisher]** shall not be liable for indirect damages, nor for the loss of data or photos resulting from your use of the app or your deletion choices.
+To the extent permitted by applicable law, **Melvin Bouvier** shall not be liable for indirect damages, nor for the loss of data or photos resulting from your use of the app or your deletion choices.
 
 Nothing in these terms excludes or limits our liability where the law prohibits it (for example in case of gross negligence, or for the statutory warranties you enjoy as a consumer).
 
@@ -66,7 +66,7 @@ We may update these terms. The current version is always the one published on th
 
 ## Governing law
 
-These terms are governed by **[French — to be confirmed]** law. As a consumer, you keep the benefit of the mandatory protective provisions in force in your country of residence.
+These terms are governed by **French** law. As a consumer, you keep the benefit of the mandatory protective provisions in force in your country of residence.
 
 ## Contact
 

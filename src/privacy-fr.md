@@ -1,6 +1,6 @@
 # Politique de confidentialité
 
-**Dernière mise à jour : [date de publication]**
+**Dernière mise à jour : 2 juin 2026**
 
 > 🔒 **En bref**
 > Cliché ne collecte aucune donnée. Tout se passe sur ton téléphone. Tes photos ne partent nulle part, jamais. Aucun tracking, aucun analytics, aucun serveur. C'est le principe même de l'app, pas une option qu'on a cochée.
@@ -13,7 +13,7 @@ Concrètement : **Cliché n'a pas de serveur.** Il n'existe aucun endroit, chez 
 
 ## Qui édite Cliché
 
-Cliché est édité par **[Éditeur]**, que tu peux contacter à **[clicheapp.contact@gmail.com](mailto:clicheapp.contact@gmail.com)**. Pour toute question sur cette politique ou sur tes données, écris-nous à cette adresse.
+Cliché est édité par **Melvin Bouvier**, que tu peux contacter à **[clicheapp.contact@gmail.com](mailto:clicheapp.contact@gmail.com)**. Pour toute question sur cette politique ou sur tes données, écris-nous à cette adresse.
 
 ## Ce que Cliché ne collecte pas
 
@@ -72,7 +72,6 @@ Pour ces opérations, Apple et Google sont responsables de leurs propres traitem
 
 À ce jour, Cliché n'affiche aucune publicité et n'intègre aucune régie publicitaire.
 
-> _[Phrase optionnelle, à activer seulement si tu introduis des pubs un jour :] Si cela évolue, il s'agirait uniquement de publicités **contextuelles, non personnalisées** (sans suivi, sans IDFA/GAID), et cette page serait mise à jour en conséquence._
 
 ## Pas de serveur, pas de transfert
 

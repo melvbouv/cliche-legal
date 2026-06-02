@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated: [publication date]**
+**Last updated: June 2, 2026**
 
 > 🔒 **In short**
 > Cliché collects no data. Everything happens on your phone. Your photos never go anywhere, ever. No tracking, no analytics, no server. That's the whole point of the app, not a box we ticked.
@@ -13,7 +13,7 @@ In practice: **Cliché has no server.** There's nowhere, on our side, for any da
 
 ## Who runs Cliché
 
-Cliché is published by **[Publisher]**, reachable at **[clicheapp.contact@gmail.com](mailto:clicheapp.contact@gmail.com)**. For any question about this policy or your data, write to us there.
+Cliché is published by **Melvin Bouvier**, reachable at **[clicheapp.contact@gmail.com](mailto:clicheapp.contact@gmail.com)**. For any question about this policy or your data, write to us there.
 
 ## What Cliché does not collect
 
@@ -72,7 +72,6 @@ For these operations, Apple and Google are responsible for their own processing.
 
 As of today, Cliché shows no ads and includes no ad network.
 
-> _[Optional sentence, to enable only if you ever introduce ads:] If that changes, it would only be **contextual, non-personalized** ads (no tracking, no IDFA/GAID), and this page would be updated accordingly._
 
 ## No server, no transfer
 

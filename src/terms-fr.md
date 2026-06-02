@@ -1,12 +1,12 @@
 # Conditions d'utilisation
 
-**Dernière mise à jour : [date de publication]**
+**Dernière mise à jour : 2 juin 2026**
 
 En installant et en utilisant Cliché, tu acceptes ces conditions. Si tu n'es pas d'accord, il suffit de ne pas utiliser l'app — sans rancune.
 
 ## L'app
 
-Cliché est éditée par **[Éditeur]**. C'est une application de tri de photos et de vidéos, qui fonctionne sur iOS et Android.
+Cliché est éditée par **Melvin Bouvier**. C'est une application de tri de photos et de vidéos, qui fonctionne sur iOS et Android.
 
 ## Ta licence d'utilisation
 
@@ -56,7 +56,7 @@ On fait de notre mieux pour que Cliché fonctionne bien, mais l'app est fournie 
 
 ## Limitation de responsabilité
 
-Dans les limites permises par la loi applicable, **[Éditeur]** ne saurait être tenu responsable des dommages indirects, ni de la perte de données ou de photos résultant de ton utilisation de l'app ou de tes choix de suppression.
+Dans les limites permises par la loi applicable, **Melvin Bouvier** ne saurait être tenu responsable des dommages indirects, ni de la perte de données ou de photos résultant de ton utilisation de l'app ou de tes choix de suppression.
 
 Rien dans ces conditions n'exclut ou ne limite notre responsabilité lorsque la loi l'interdit (par exemple en cas de faute lourde, ou pour les garanties légales dont tu bénéficies en tant que consommateur).
 
@@ -66,7 +66,7 @@ On peut faire évoluer ces conditions. La version à jour est toujours celle pub
 
 ## Droit applicable
 
-Ces conditions sont régies par le droit **[français — à confirmer]**. En tant que consommateur, tu conserves le bénéfice des dispositions impératives de protection en vigueur dans ton pays de résidence.
+Ces conditions sont régies par le droit **français**. En tant que consommateur, tu conserves le bénéfice des dispositions impératives de protection en vigueur dans ton pays de résidence.
 
 ## Contact
 
