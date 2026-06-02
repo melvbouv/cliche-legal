@@ -2,7 +2,7 @@
 
 Cliché is made by a small team. If something's stuck, or you just have a question, we're here.
 
-**Write to us: [bonjour@cliche.app]**
+**Write to us: [clicheapp.contact@gmail.com](mailto:clicheapp.contact@gmail.com)**
 We answer real people, usually **within 48 hours** (business days) — often sooner.
 
 ## Frequently asked
@@ -24,4 +24,4 @@ No. Never. Everything — sorting, scanning, compression — happens on your pho
 
 ## Still got a question?
 
-Write to us at **[bonjour@cliche.app]**. No question is silly, and we like hearing from people.
+Write to us at **[clicheapp.contact@gmail.com](mailto:clicheapp.contact@gmail.com)**. No question is silly, and we like hearing from people.

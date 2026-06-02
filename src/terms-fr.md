@@ -70,4 +70,4 @@ Ces conditions sont régies par le droit **[français — à confirmer]**. En ta
 
 ## Contact
 
-Une question sur ces conditions ? Écris-nous à **[bonjour@cliche.app]**.
+Une question sur ces conditions ? Écris-nous à **[clicheapp.contact@gmail.com](mailto:clicheapp.contact@gmail.com)**.

@@ -2,7 +2,7 @@
 
 Cliché est faite par une petite équipe. Si quelque chose coince, ou si tu as juste une question, on est là.
 
-**Écris-nous : [bonjour@cliche.app]**
+**Écris-nous : [clicheapp.contact@gmail.com](mailto:clicheapp.contact@gmail.com)**
 On répond à de vraies personnes, en général **sous 48 h** (jours ouvrés) — souvent plus vite.
 
 ## Les questions qui reviennent
@@ -24,4 +24,4 @@ Non. Jamais. Tout — le tri, le scan, la compression — se passe sur ton tél�
 
 ## Encore une question ?
 
-Écris-nous à **[bonjour@cliche.app]**. Aucune question n'est bête, et on aime bien avoir des nouvelles.
+Écris-nous à **[clicheapp.contact@gmail.com](mailto:clicheapp.contact@gmail.com)**. Aucune question n'est bête, et on aime bien avoir des nouvelles.

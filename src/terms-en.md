@@ -70,4 +70,4 @@ These terms are governed by **[French — to be confirmed]** law. As a consumer,
 
 ## Contact
 
-A question about these terms? Write to us at **[bonjour@cliche.app]**.
+A question about these terms? Write to us at **[clicheapp.contact@gmail.com](mailto:clicheapp.contact@gmail.com)**.

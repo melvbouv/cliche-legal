@@ -13,7 +13,7 @@ Concrètement : **Cliché n'a pas de serveur.** Il n'existe aucun endroit, chez 
 
 ## Qui édite Cliché
 
-Cliché est édité par **[Éditeur]**, que tu peux contacter à **[bonjour@cliche.app]**. Pour toute question sur cette politique ou sur tes données, écris-nous à cette adresse.
+Cliché est édité par **[Éditeur]**, que tu peux contacter à **[clicheapp.contact@gmail.com](mailto:clicheapp.contact@gmail.com)**. Pour toute question sur cette politique ou sur tes données, écris-nous à cette adresse.
 
 ## Ce que Cliché ne collecte pas
 
@@ -97,4 +97,4 @@ Si Cliché évolue, on mettra cette page à jour et on changera la date en haut.
 
 ## Nous contacter
 
-Une question, un doute, une simple curiosité ? Écris-nous à **[bonjour@cliche.app]**. On répond à de vraies personnes, avec de vraies réponses.
+Une question, un doute, une simple curiosité ? Écris-nous à **[clicheapp.contact@gmail.com](mailto:clicheapp.contact@gmail.com)**. On répond à de vraies personnes, avec de vraies réponses.

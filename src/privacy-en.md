@@ -13,7 +13,7 @@ In practice: **Cliché has no server.** There's nowhere, on our side, for any da
 
 ## Who runs Cliché
 
-Cliché is published by **[Publisher]**, reachable at **[bonjour@cliche.app]**. For any question about this policy or your data, write to us there.
+Cliché is published by **[Publisher]**, reachable at **[clicheapp.contact@gmail.com](mailto:clicheapp.contact@gmail.com)**. For any question about this policy or your data, write to us there.
 
 ## What Cliché does not collect
 
@@ -97,4 +97,4 @@ If Cliché evolves, we'll update this page and change the date at the top. Since
 
 ## Contact us
 
-A question, a doubt, simple curiosity? Write to us at **[bonjour@cliche.app]**. We answer real people, with real answers.
+A question, a doubt, simple curiosity? Write to us at **[clicheapp.contact@gmail.com](mailto:clicheapp.contact@gmail.com)**. We answer real people, with real answers.
